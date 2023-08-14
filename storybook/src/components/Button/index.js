@@ -1,0 +1,1 @@
+export { default } from './Button' //El index.js funciona como exportador
